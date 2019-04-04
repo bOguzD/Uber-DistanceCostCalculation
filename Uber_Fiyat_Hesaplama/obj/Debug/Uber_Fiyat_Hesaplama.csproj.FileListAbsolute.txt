@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\bin\Debug\Uber_Fiyat_Hesaplama.exe.config
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\bin\Debug\Uber_Fiyat_Hesaplama.exe
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\bin\Debug\Uber_Fiyat_Hesaplama.pdb
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\obj\Debug\Uber_Fiyat_Hesaplama.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\obj\Debug\Uber_Fiyat_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\obj\Debug\Uber_Fiyat_Hesaplama.exe
+C:\Users\Section2\source\repos\Uber_Fiyat_Hesaplama\Uber_Fiyat_Hesaplama\obj\Debug\Uber_Fiyat_Hesaplama.pdb
